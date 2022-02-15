@@ -37,8 +37,6 @@ export default {
 
     computed: {
         calcProfit(count, cost) {
-            console.log(count);
-            console.log(cost);
             return parseInt(count) * parseInt(cost);
         },
     },
