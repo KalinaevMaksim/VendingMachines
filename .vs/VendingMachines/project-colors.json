@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "39856e6a-3295-4af1-beb4-13d10f41738b": {
+      "ProjectGuid": "39856e6a-3295-4af1-beb4-13d10f41738b",
+      "DisplayName": "VendingMachines",
+      "ColorIndex": 0
+    },
+    "3b91dd82-2205-45e6-b531-bd72d4feeddf": {
+      "ProjectGuid": "3b91dd82-2205-45e6-b531-bd72d4feeddf",
+      "DisplayName": "VendingMachinesWebAPI",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "5ca6c1a0-b0f3-4d58-a3a2-f6f1fe75c82b": {
+      "ProjectGuid": "5ca6c1a0-b0f3-4d58-a3a2-f6f1fe75c82b",
+      "DisplayName": "VendingMachinesASP",
+      "ColorIndex": 2
+    },
+    "7a16e680-b9dc-4643-9ddb-f41b397ffd75": {
+      "ProjectGuid": "7a16e680-b9dc-4643-9ddb-f41b397ffd75",
+      "DisplayName": "VendingMachines",
+      "ColorIndex": 3
+    },
+    "8799cf1c-3354-4802-a598-0e6ff3055363": {
+      "ProjectGuid": "8799cf1c-3354-4802-a598-0e6ff3055363",
+      "DisplayName": "VendingMachinesVue",
+      "ColorIndex": 4
+    },
+    "a3274499-7f92-4800-8bca-017dcf524389": {
+      "ProjectGuid": "a3274499-7f92-4800-8bca-017dcf524389",
+      "DisplayName": "VendingMachinesNodeJS",
+      "ColorIndex": 5
+    },
+    "33eda3ae-744c-495c-a408-f192ed2c62d8": {
+      "ProjectGuid": "33eda3ae-744c-495c-a408-f192ed2c62d8",
+      "DisplayName": "vendingmachinesvue1",
+      "ColorIndex": 6
+    },
+    "62925d10-3d67-4b19-aafb-58067ade6ef6": {
+      "ProjectGuid": "62925d10-3d67-4b19-aafb-58067ade6ef6",
+      "DisplayName": "vendingmachinesvue",
+      "ColorIndex": 7
+    },
+    "d161207e-b0d1-4f54-8a7c-893502bfc4ea": {
+      "ProjectGuid": "d161207e-b0d1-4f54-8a7c-893502bfc4ea",
+      "DisplayName": "vendingmachinesvue",
+      "ColorIndex": 8
+    },
+    "ed12054c-481f-4951-ad60-636a25881966": {
+      "ProjectGuid": "ed12054c-481f-4951-ad60-636a25881966",
+      "DisplayName": "VendingMachineVuejs",
+      "ColorIndex": 9
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Документы скриптов",
+      "ColorIndex": 10
+    },
+    "c6b915c0-fd6c-4f55-9e90-7c223e698f86": {
+      "ProjectGuid": "c6b915c0-fd6c-4f55-9e90-7c223e698f86",
+      "DisplayName": "VendingMachineWebAPINet5",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}
